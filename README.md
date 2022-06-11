@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sihein2111
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning web development from 2021 Compelete Web Development Bootcamp by Dr.Angela Yu on Udemy.
+- 🌱 I’m currently learning web development from 2022 Compelete Web Development Bootcamp by Dr.Angela Yu on Udemy.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
